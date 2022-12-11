@@ -94,10 +94,11 @@ section {
 }
 
 footer {
-    height: 20px;
+    height: 30px;
     background-color: black;
     text-align: center;
     color: white;
+    
 
 }
 
@@ -114,6 +115,6 @@ footer a:hover {
 }
 
 footer p {
-    padding-top: 3px;
+    padding-top: 10px;
     
 }
